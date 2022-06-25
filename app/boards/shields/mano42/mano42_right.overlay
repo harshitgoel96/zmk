@@ -15,7 +15,3 @@
 		, <&pro_micro 16 GPIO_ACTIVE_LOW>
 		;
 };
-
-&right_encoder {
-	status = "okay";
-};
