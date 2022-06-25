@@ -44,8 +44,4 @@ RC(2,5) RC(2,6) RC(2,7) RC(2,8) RC(2,9) RC(4,9) RC(4,8)     RC(3,4) RC(4,4) RC(2
             ;
     };
 
-    sensors {
-        compatible = "zmk,keymap-sensors";
-       
-    };
 };
